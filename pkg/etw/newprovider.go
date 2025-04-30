@@ -9,7 +9,7 @@ import (
 	"encoding/binary"
 	"unsafe"
 
-	"github.com/Microsoft/go-winio/pkg/guid"
+	"github.com/parallel-oss/go-winio/pkg/guid"
 	"golang.org/x/sys/windows"
 )
 

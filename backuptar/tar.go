@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Microsoft/go-winio"
+	"github.com/parallel-oss/go-winio"
 	"golang.org/x/sys/windows"
 )
 

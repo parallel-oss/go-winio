@@ -1,4 +1,4 @@
-module github.com/Microsoft/go-winio
+module github.com/parallel-oss/go-winio
 
 go 1.21
 

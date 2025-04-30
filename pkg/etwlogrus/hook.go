@@ -9,7 +9,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/Microsoft/go-winio/pkg/etw"
+	"github.com/parallel-oss/go-winio/pkg/etw"
 )
 
 const defaultEventName = "LogrusEntry"
